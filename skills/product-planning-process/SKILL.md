@@ -1,3 +1,8 @@
+---
+name: product-planning-process
+description: 서비스 기획 단계(범위 → 정책·유저플로우 → 기능정의서 → LOFI 프로토타입 → 화면설계서 → HIFI 프로토타입)와 결정 반영 고리, 담당 간 넘김·대조 규칙. 도메인 무관 — 새 영역 기획, 결정을 여러 결과물에 반영, 담당에게 일 넘기기·대조할 때 사용.
+---
+
 # 기획 프로세스 스킬 (범위 → 정책 · 유저플로우 → 기능정의 → LOFI 프로토타입 → 화면설계 → HIFI 프로토타입)
 
 > 이 파일은 `product-planning-process` 스킬입니다.
@@ -13,10 +18,10 @@
 - 다른 담당(화면설계 · 개발 — 사람이든 다른 작업 창이든)에게 일을 넘기거나, 넘겨받은 결과를 대조할 때
 
 같이 쓰는 스킬:
-- 정책 문장을 쓰거나 다듬을 때 → `skills/policy-doc-writing.md`
+- 정책 문장을 쓰거나 다듬을 때 → `policy-doc-writing` 스킬
 - 기능정의서 쓰는 법 → `spec-sheet-writing` · 화면설계 쓰는 법 → `screen-spec-writing` · 화면 문구 → `ux-writing`
-- 지표 개선 프로젝트(전환율 등) 설계 → `skills/pm-feature-workflow.md` (그 3단계 PRD 뒤에 이 프로세스로 이어진다)
-- 기획자 여럿 · 디자인 · 개발 · QA 팀과 나눠 일할 때(누가 무엇을 · 넘김 기준) → `skills/team-collaboration-process.md` (프로젝트 상태가 '적용 중'일 때만)
+- 지표 개선 프로젝트(전환율 등) 설계 → `pm-feature-workflow` 스킬 (그 3단계 PRD 뒤에 이 프로세스로 이어진다)
+- 기획자 여럿 · 디자인 · 개발 · QA 팀과 나눠 일할 때(누가 무엇을 · 넘김 기준) → `team-collaboration-process` 스킬 (프로젝트 상태가 '적용 중'일 때만)
 
 ---
 
